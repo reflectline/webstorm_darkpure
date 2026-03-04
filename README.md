@@ -16,7 +16,7 @@ I have preserved all functionality of the original dark theme, but made it more 
 2. Extract Dark_Pur_DEF.jar archive from the repository and place it in any convenient location on your PC. 
 3. Open WebStorm. Click the gear icon in the top-right corner → Plugins... 
 4. In the Plugins window, click the gear icon → Install Plugin from Disk… 
-5. Select the Dark_Pur_DEF.jar file, click Open, and restart WebStorm when prompted.
+5. Select the Dark_Pur_DEF.jar archive, click Open, and restart WebStorm when prompted.
 
 
 ## Usage
