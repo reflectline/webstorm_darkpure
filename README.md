@@ -3,8 +3,7 @@ Dark minimalist theme for JetBrains WebStorm.<br/>
 I have preserved all functionality of the original dark theme, but made it more contrasting  
 
 <a href="readme_assets/preview.png" target="_blank">
-  <img src="readme_assets/preview.png" alt="preview" width="500" 
-       style="cursor: pointer; border: 1px solid #0d1117; border-radius: 12px; display: block; margin: 10px 0;">
+  <img src="readme_assets/preview.png" alt="preview" width="500">
 </a>
 
 ## Features
